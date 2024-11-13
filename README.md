@@ -15,5 +15,5 @@ No se requiere instalación. Simplemente coloca tu caja de cigarrillos dentro de
 1. Abre la funda.
 2. Coloca tu caja de cigarrillos dentro.
 3. Usa el mechero recargable integrado para encender tus cigarrillos.
-
+f
 

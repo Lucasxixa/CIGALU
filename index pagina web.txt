@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundas de Cigarrillos con Mechero Recargable</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Marca</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="productos.html">Productos</a></li>
+                <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="banner">
+            <h2>Fundas de Cigarrillos con Mechero Recargable</h2>
+            <p>¡La combinación perfecta de estilo y funcionalidad!</p>
+            <a href="productos.html" class="cta">Comprar Ahora</a>
+        </section>
+        <section class="productos-destacados">
+            <h2>Productos Destacados</h2>
+            <!-- Aquí irían las imágenes y descripciones de los productos -->
+        </section>
+        <section class="testimonios">
+            <h2>Testimonios de Clientes</h2>
+            <!-- Aquí irían los testimonios de los clientes -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tu Marca. Todos los derechos reservados.</p>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="productos.html">Productos</a></li>
+            <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+        <div class="redes-sociales">
+            <!-- Enlaces a redes sociales -->
+        </div>
+    </footer>
+</body>
+</html>

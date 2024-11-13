@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundas de Cigarrillos con Mechero Recargable</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Marca</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="productos.html">Productos</a></li>
+                <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="banner">
+            <h2>Fundas de Cigarrillos con Mechero Recargable</h2>
+            <p>¡La combinación perfecta de estilo y funcionalidad!</p>
+            <a href="productos.html" class="cta">Comprar Ahora</a>
+        </section>
+        <section class="productos-destacados">
+            <h2>Productos Destacados</h2>
+            <!-- Aquí irían las imágenes y descripciones de los productos -->
+        </section>
+        <section class="testimonios">
+            <h2>Testimonios de Clientes</h2>
+            <!-- Aquí irían los testimonios de los clientes -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tu Marca. Todos los derechos reservados.</p>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="productos.html">Productos</a></li>
+            <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+        <div class="redes-sociales">
+            <!-- Enlaces a redes sociales -->
+        </div>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CigAlu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CigAlu</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido a CigAlu</h2>
+            <p>Fundas de aluminio para cajas de cigarrillos con mechero recargable integrado.</p>
+            <img src="https://raw.githubusercontent.com/Lucasxixa/CIGALU/refs/heads/lucas/imagen%20caja%20cigarrillo.webp" cajas para cigarrillos de aluminio">
+            <a href="#productos" class="cta">Comprar Ahora</a>
+        </section>
+        <section id="productos">
+            <h2>Productos Destacados</h2>
+            <img src="https://raw.githubusercontent.com/Lucasxixa/CIGALU/refs/heads/lucas/piti%20saliendo%20de%20la%20caja.webp" alt="los mejores precios">
+            <!-- Aquí irían las imágenes y descripciones de los productos -->
+        </section>
+        <section id="sobre-nosotros">
+            <h2>Sobre Nosotros</h2>
+            <p>CigAlu es una funda de aluminio para cajas de cigarrillos con un mechero recargable integrado. Ofrece una solución práctica y elegante para los fumadores.</p>
+        </section>
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <form>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="lucas">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email">
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje"></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 CigAlu. Todos los derechos reservados.</p>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#productos">Productos</a></li>
+            <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
